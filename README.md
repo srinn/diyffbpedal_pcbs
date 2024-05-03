@@ -5,7 +5,7 @@ I modified the layout a little bit to make the PCB a little smaller for this DIY
 
 ## Power PCB Design:
 
-You can order this PCB from any PCB Makers. ex) PCBWay, JLCPCB, ...
+You can order this PCB from any PCB Makers using this Gerber file. ex) PCBWay, JLCPCB, ...
 
 You can download Gerber file here: [Download Power PCB Gerber file](https://github.com/srinn/diyffbpedal_pcbs/raw/main/power_pcb_different_batch_by_srin/Gerber_Power-Pcb-With-100v-3300uf_PCB_Power-Pcb-With-100v-3300uf_2024-05-04.zip)
 
@@ -14,7 +14,7 @@ You can download Gerber file here: [Download Power PCB Gerber file](https://gith
 
 ## FFB Pedal PCB Design:
 
-You can order this PCB from any PCB Makers. ex) PCBWay, JLCPCB, ...
+You can order this PCB from any PCB Makers using this Gerber file. ex) PCBWay, JLCPCB, ...
 
 You can download Gerber file here: [Download FFB Pedal PCB Gerber file](https://github.com/srinn/diyffbpedal_pcbs/raw/main/Pedal_pcb_different_batch_by_srin/Gerber_Pedal-Pcb-v3-different-batch_PCB_Pedal-Pcb-v3-different-batch_2024-05-04.zip)
 
