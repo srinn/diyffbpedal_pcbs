@@ -25,6 +25,10 @@ You can download Gerber file here: [Download FFB Pedal PCB Gerber file](https://
 
 If you want to batch your 3D CAD project, use this step file: [Download FFB Pedal PCB step file](https://github.com/srinn/diyffbpedal_pcbs/raw/main/Pedal_pcb_different_batch_by_srin/3D_PCB_Pedal%20Pcb%20v3-different%20batch_2024-04-25%20v2.step)
 
+Be careful, ESP32 must have to be placed like this:
+
+![img](https://github.com/srinn/diyffbpedal_pcbs/blob/main/Pedal_pcb_different_batch_by_srin/place_esp32.png?raw=true)
+
 Have Fun! 😁
 
 By. Srin
