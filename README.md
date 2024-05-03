@@ -1,7 +1,7 @@
 # DIY FFB Pedal PCBs to make a little bit small
 This project is a derivative project of this: https://github.com/ChrGri/DIY-Sim-Racing-FFB-Pedal
 
-I modified the layout a little bit to make the PCB a little smaller for this DIY project. The circuit design wasn't all done by me. Please respect what they have done 😘
+I made some modifications to the layout to make the PCB of this DIY project a little smaller. I didn't do all the circuit design. I just made some modifications. Please respect what they have done 😘
 
 ## Power PCB:
 
